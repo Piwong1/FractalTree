@@ -1,3 +1,5 @@
+private double fractionLength = .8; 
+private int smallestBranch = 10; 
 private double branchAngle = .5;  
 public void setup() 
 {   
